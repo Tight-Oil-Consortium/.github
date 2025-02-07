@@ -32,4 +32,6 @@ TEC specializes in STEPs hosted in “unconventional” reservoirs such as deep 
 
 -> <a href="https://www.transitionalenergyconsortium.com/" style="color: grey;">Transitional Energy Consortium (TEC)</a>
 
+## Intellectual Property
 
+The content created in the Technology of Tight Oil Consortium (TecTOC) is the intellectual property of the University of Calgary (UofC), Tight Oil Consortium (TOC), Transtional Engergy Consortium (TEC). All rights reserved. The content is intended for the use of the members of the consortium and is not to be shared with any third party without the written consent of the UofC, TOC, and TEC. To request permission to use the content, please contact the consortium at https://www.tightoilconsortium.com/contact-us/.
