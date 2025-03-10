@@ -26,11 +26,11 @@ TEC specializes in STEPs hosted in “unconventional” reservoirs such as deep 
 
 ## Want to learn more about what we do?
 
--> <a href="https://www.tectoc.ca/">Technology of Tight Oil Consortium (TecTOC)</a>
+-> [Technology of Tight Oil Consortium (TecTOC)](https://www.tectoc.ca/)
 
--> <a href="https://www.tightoilconsortium.com/">Tight Oil Consortium (TOC)</a>
+-> [Tight Oil Consortium (TOC)](https://www.tightoilconsortium.com/)
 
--> <a href="https://www.transitionalenergyconsortium.com/" style="color: grey;">Transitional Energy Consortium (TEC)</a>
+-> ~~[Transitional Energy Consortium (TEC)](https://www.transitionalenergyconsortium.com/)~~ (Coming Soon)
 
 ## Intellectual Property
 
