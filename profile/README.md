@@ -32,8 +32,8 @@ TEC specializes in STEPs hosted in “unconventional” reservoirs such as deep 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,html,css,js,ts" alt="Tech stack icons" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,md" alt="Tech stack icons" /><br>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,vercel,windows,linux" alt="Tech stack icons" /><br>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,md" alt="Tech stack icons" /><br>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,vercel,windows" alt="Tech stack icons" /><br>
 </div>
 
 ## Intellectual Property 🛡️
