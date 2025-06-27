@@ -32,14 +32,19 @@ TEC specializes in STEPs hosted in “unconventional” reservoirs such as deep 
 ## Our Tech Stack: 💻
 
 <div align="center">
-    <h3> Web Development </h3>
-        <img src="https://skillicons.dev/icons?i=vercel,nodejs,nextjs,react,bootstrap" /></br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts" /></br>
-    <h3>Native App Development</h3>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py" /></br>
-    <h3>IDEs and Tools</h3>
-        <img src="https://skillicons.dev/icons?i=md,visualstudio,vscode,git,github" /></br>
-        <img src="https://skillicons.dev/icons?i=apple,windows,linux,azure" /></br>
+  <h3> Web Development </h3>
+    <img src="https://skillicons.dev/icons?i=vercel,nodejs,nextjs,react,bootstrap" /></br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" /></br>
+  <h3>Native App Development</h3>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs" /></br>
+    <img src="https://skillicons.dev/icons?i=py,java" /></br>
+  <h3>IDEs and Tools</h3>
+    <img src="https://skillicons.dev/icons?i=md,visualstudio,vscode,eclipse" /></br>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" /></br>
+  <h3>Operating Systems</h3>
+    <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,mint,arch,linux"/></br>
+  <h3>Database & Cloud</h3>
+    <img src="https://skillicons.dev/icons?i=azure,gcp,aws"/></br>
 </div>
 
 
