@@ -27,7 +27,7 @@ TEC specializes in STEPs hosted in “unconventional” reservoirs such as deep 
 
 - [Technology of Tight Oil Consortium (TecTOC)](https://www.tectoc.ca/)
 - [Tight Oil Consortium (TOC)](https://www.tightoilconsortium.com/)
-- ~~[Transitional Energy Consortium (TEC)](https://www.transitionalenergyconsortium.com/)~~ (Coming Soon)
+
 
 ## Our Tech Stack: 💻
 
@@ -36,13 +36,13 @@ TEC specializes in STEPs hosted in “unconventional” reservoirs such as deep 
     <img src="https://skillicons.dev/icons?i=vercel,nodejs,nextjs,react,bootstrap" /></br>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts" /></br>
   <h3>Native App Development</h3>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs" /></br>
-    <img src="https://skillicons.dev/icons?i=py,java" /></br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs" /></br>
+    <img src="https://skillicons.dev/icons?i=py" /></br>
   <h3>IDEs and Tools</h3>
-    <img src="https://skillicons.dev/icons?i=md,visualstudio,vscode,eclipse" /></br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /></br>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" /></br>
   <h3>Operating Systems</h3>
-    <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,mint,arch,linux"/></br>
+    <img src="https://skillicons.dev/icons?i=apple,windows,linux"/></br>
   <h3>Database & Cloud</h3>
     <img src="https://skillicons.dev/icons?i=azure,gcp,aws"/></br>
 </div>
