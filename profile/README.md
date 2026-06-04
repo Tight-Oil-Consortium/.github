@@ -32,11 +32,13 @@ TEC specializes in STEPs hosted in “unconventional” reservoirs such as deep 
 ## Our Tech Stack: 💻
 
 <div align="center">
+<div align="center">
   <h3> Web Development </h3>
     <img src="https://skillicons.dev/icons?i=vercel,nodejs,nextjs,react,bootstrap" /></br>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts" /></br>
   <h3>Native App Development</h3>
-    <img src="https://skillicons.dev/icons?i=cpp,cs" /></br>
+    <img src="https://skillicons.dev/icons?i=cpp" /></br>
+    <img src="https://skillicons.dev/icons?i=cs,java" /></br>
     <img src="https://skillicons.dev/icons?i=py" /></br>
   <h3>IDEs and Tools</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode" /></br>
@@ -52,6 +54,6 @@ TEC specializes in STEPs hosted in “unconventional” reservoirs such as deep 
 
 The content created within the Technology of Tight Oil Consortium (TecTOC) is the intellectual property of the University of Calgary (UofC), the Tight Oil Consortium (TOC), and the Transitional Energy Consortium (TEC). All rights are reserved under applicable intellectual property laws.
 
-This content is intended solely for the use of the consortium members, who must comply with the agreed-upon terms of use. Sharing this material with any third party is strictly prohibited unless prior written consent is obtained from all involved entities: the UofC, TOC, and TEC.
+This content is intended solely for the use of the consortium members, who must comply with the agreed-upon terms of use. Sharing this material with any third party is strictly prohibited unless **prior written consent** is obtained from **all involved entities: the UofC, TOC, and TEC.**
 
 To request permission to use or share the content, please contact the consortium directly through their official communication channels. For convenience, inquiries can be submitted via their contact page at [this link](https://www.tightoilconsortium.com/contact-us/).
