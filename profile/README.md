@@ -32,7 +32,6 @@ TEC specializes in STEPs hosted in “unconventional” reservoirs such as deep 
 ## Our Tech Stack: 💻
 
 <div align="center">
-<div align="center">
   <h3> Web Development </h3>
     <img src="https://skillicons.dev/icons?i=vercel,nodejs,nextjs,react,bootstrap" /></br>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts" /></br>
@@ -57,3 +56,13 @@ The content created within the Technology of Tight Oil Consortium (TecTOC) is th
 This content is intended solely for the use of the consortium members, who must comply with the agreed-upon terms of use. Sharing this material with any third party is strictly prohibited unless **prior written consent** is obtained from **all involved entities: the UofC, TOC, and TEC.**
 
 To request permission to use or share the content, please contact the consortium directly through their official communication channels. For convenience, inquiries can be submitted via their contact page at [this link](https://www.tightoilconsortium.com/contact-us/).
+
+<br></br>
+
+Copyright © 2011-2026
+
+- Technology of Tight Oil Consortium (TecTOC)
+- Tight Oil Consortium (TOC)
+- Transitional Energy Consortium (TEC).
+
+All rights reserved.
